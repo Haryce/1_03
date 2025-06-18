@@ -1,3 +1,5 @@
+using System;
+
 class Weather
 {
     public double Temperature { get; set; }
