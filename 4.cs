@@ -1,3 +1,5 @@
+using System;
+
 class Computer
 {
     public string Model { get; set; }
